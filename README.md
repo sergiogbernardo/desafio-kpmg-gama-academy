@@ -1,10 +1,10 @@
 # Desafio - KPMG & Gama Academy
 
 ### Objetivos
-- Desenvolver um relatório e uma apresentação de Pentest de duas máquinas virtuais
-- Apresentar seus resultados
-- Apresentar ulnerabilidades
-- Sugerir mitigações
+- Executar um Teste de Penetração - Pentest de duas máquinas virtuais.
+- Descobrir seus dados, vulnerabilidades e riscos.
+- Sugerir mitigações.
+- Elaborar um relatório e uma apresentação para a banca.
 
 ### Membros
 
